@@ -1,2 +1,7 @@
 installer failed to write complete config file now fixed 
-updated installer to auto clone git repository auto install creates git folder and pulls all files then configures kodi-player-core-factory 
+updated installer to auto clone git repository auto install creates git folder
+and pulls all files then configures kodi-player-core-factory 
+
+fixed error on enviroment paths  
+
+paths are now set in the user envroment  away from the system enviroment 
