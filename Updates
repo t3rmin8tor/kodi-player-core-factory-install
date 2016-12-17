@@ -1,1 +1,7 @@
 x64 version of rip-record released 
+
+
+17/12/16
+
+Removed the need for  creation of desktop short cut 
+combined installer into 1 32/64 bit installer 
