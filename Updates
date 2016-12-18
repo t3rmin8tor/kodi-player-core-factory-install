@@ -5,3 +5,10 @@ x64 version of rip-record released
 
 Removed the need for  creation of desktop short cut 
 combined installer into 1 32/64 bit installer 
+
+18/12/2016
+
+
+there was an error in v 1.5  installer was attempting to install to directory c:/programfiles(x86)Rip-record
+
+this error has now been fixed abd the installer is now  installing into the correct directory 
