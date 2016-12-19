@@ -13,3 +13,9 @@ please note  that for tech support relating to bash scrip issues please follow t
 <a href="https://github.com/NapoleonWils0n/kodi-playercorefactory">NapoleonWilson</a>
 
 
+64 bit installer fixed and updated to v1.5 16:47  17/12/2016
+ftp errors fixed  06:21 am 19/12/2016
+
+can i please remind users with errors relating to the windows installer  please raise an issue  here
+issues raised with <a href="https://github.com/NapoleonWils0n/kodi-playercorefactory">NapoleonWilson</a>
+that relate to the windows installer can not be dealt with there 
