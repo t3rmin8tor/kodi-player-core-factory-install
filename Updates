@@ -12,3 +12,9 @@ combined installer into 1 32/64 bit installer
 there was an error in v 1.5  installer was attempting to install to directory c:/programfiles(x86)Rip-record
 
 this error has now been fixed abd the installer is now  installing into the correct directory 
+
+30/12/2016
+
+update to speed up install process Rip-Record now contains all files within its own directory and auto configures git
+
+Note 1.8 is a major upgrade from 1.6  and a complete uninstall of rip-record  with version numbers lower than 1.8 is mandatory
