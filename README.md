@@ -5,7 +5,7 @@ This program is bassed on and uses the bash scripts from the NapoleonWils0n kodi
 
 Rip-Record-install.exe is in beta testing this is not the final release so i expect there to be bugs 
 
-Rip-Record installer    <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v1.8/rip-record-install-1.8.exe">http Download V 1.8</a><br><a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v2.0/rip-record-install-2.0.exe">http Download V 2.0</a><br>Rip-Record installer &nbsp;<br>Rip-Record installer &nbsp;  <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/raw/master/rip-record-install-1.8.torrent">Torrent Download</a>
+Rip-Record installer    <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v1.8/rip-record-install-1.8.exe">http Download V 1.8</a><br>Rip-Record-install.exe  <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v2.0/rip-record-install-2.0.exe">http Download V 2.0</a><br>Rip-Record installer &nbsp;<br>Rip-Record installer &nbsp;  <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/raw/master/rip-record-install-1.8.torrent">Torrent Download</a>
 
 
 please note  that for tech support relating to bash scrip issues please follow this link
