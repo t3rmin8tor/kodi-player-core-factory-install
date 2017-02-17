@@ -8,7 +8,7 @@ Rip-Record-install updated to v 2.0
 added support for  new windows 10 updates  
 added shortcuts for MPV Player and VLC Player
 
-Rip-Record installer  V 1.8   <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v1.8/rip-record-install-1.8.exe">http Download</a><br>Rip-Record installer  V 2.0  <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v2.0/rip-record-install-2.0.exe">http Download</a><br>Rip-Record installer V 2.0 &nbsp;<a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/raw/master/rip-record-install-2.0.torrent">Torrent Download</a><br>Rip-Record installer V 1.8 &nbsp;  <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/raw/master/rip-record-install-1.8.torrent">Torrent Download</a>
+Rip-Record installer  V 1.8   <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v1.8/rip-record-install-1.8.exe">http Download</a><br>Rip-Record installer  V 2.0  <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v2.0/rip-record-install-2.0.exe">http Download</a><br><a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/releases/download/v2.2/rip-record-install-v2.2.exe">http Download<br>Rip-Record installer V 2.0 &nbsp;<a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/raw/master/rip-record-install-2.0.torrent">Torrent Download</a><br>Rip-Record installer V 1.8 &nbsp;  <a href="https://github.com/t3rmin8tor/kodi-player-core-factory-install/raw/master/rip-record-install-1.8.torrent">Torrent Download</a>
 
 
 please note  that for tech support relating to bash scrip issues please follow this link
