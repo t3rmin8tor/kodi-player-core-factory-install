@@ -1,4 +1,6 @@
-<h1>created Rip-at.exe NOTE THIS IS EXPERIMENTAL </h1> 
+created Rip-at.exe 
+
+NOTE THIS IS EXPERIMENTAL 
 
 rip-at is a standalone recording scheduler for rip-record
 rip-at has a GUI 
@@ -14,7 +16,23 @@ field 1 chan to record (the unique name for the schedule)
 field 2 date to record (format DD-MM-YYYY)
 field 3 start time     (the time to start recording)
 field 4 duration       (format  00:00:59)   same format as rip-record
+create button  injects the form data into windows schedtask and stores the scedule 
+files in system32\Tasks
 
 work in progress
 
 view-delete-recordings  function is not complete 
+
+to remove recording schedules you will need to either 
+
+1 from command line run schedtasks delete /(taskname)
+
+OR
+
+2 open folder c:\windows\system32\Tasks\ 
+
+then manually delete the channel name the format of the files are 
+
+example
+
+sky101-01-00 chan name followed by creation date 
