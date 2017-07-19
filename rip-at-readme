@@ -1,0 +1,20 @@
+<h1>created Rip-at.exe NOTE THIS IS EXPERIMENTAL </h1> 
+
+rip-at is a standalone recording scheduler for rip-record
+rip-at has a GUI 
+
+install
+
+download to desktop and run 
+
+
+usage 
+
+field 1 chan to record (the unique name for the schedule)
+field 2 date to record (format DD-MM-YYYY)
+field 3 start time     (the time to start recording)
+field 4 duration       (format  00:00:59)   same format as rip-record
+
+work in progress
+
+view-delete-recordings  function is not complete 
