@@ -1,7 +1,13 @@
-installer failed to write complete config file now fixed 
-updated installer to auto clone git repository auto install creates git folder
-and pulls all files then configures kodi-player-core-factory 
+NEW PATCHES BEING RELEASED THIS WEEK TO FIX KNOWN ISSUES RELATING TO NEW WINDOWS 10 UPDATES
 
-fixed error on enviroment paths  
+PATCH FOR V 1.8 USE 
 
-paths are now set in the user envroment  away from the system enviroment 
+rip-record-v1.8-patch.bat
+
+PATCH FOR V 2.0 USE
+
+rip-record-v2.0-patch.bat
+
+PATCH FOR V 2.2 USE
+
+rip-record-v2.2-patch.bat
