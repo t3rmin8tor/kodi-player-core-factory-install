@@ -11,7 +11,7 @@
 :PROMPT
 SET /P AREYOUSURE=Are you sure (Y/[N])?
 IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
-setx PATH "%ProgramFiles%\Rip-Record\Git\usr\bin;%ProgramFiles%\Rip-Record\Git\cmd;%ProgramFiles%\Rip-Record\Git\bin;%UserProfile%\git\kodi-playercorefactory\bash-scripts-windows"
+setx PATH "C:\Program Files\Rip-Record\Git\usr\bin;C:\Program Files\Rip-Record\Git\cmd;C:\ProgramFiles%\Rip-Record\Git\bin;%UserProfile%\git\kodi-playercorefactory\bash-scripts-windows"
 @ECHO setting Cygwin path....
 
 @ECHO setting application path...
